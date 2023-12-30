@@ -13365,7 +13365,7 @@ html {
 }
 
 main {
-  margin: bottom 250px;
+  margin-bottom: 250px;
 }
 
 footer.footer {
@@ -13414,4 +13414,8 @@ p {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.text-justifiy {
+  text-align: justify;
 }/*# sourceMappingURL=main.css.map */
